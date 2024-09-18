@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "33184159206",
+    "project_id": "travel-b8d09",
+    "storage_bucket": "travel-b8d09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33184159206:android:10afc30ce6c551ab30b227",
+        "android_client_info": {
+          "package_name": "com.wagner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjPVJq60d_dGkXsPmx9z5XgvgtLV8twKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
